@@ -1,3 +1,5 @@
+# UPDATE 1/1/23: Will also include Universal Analytics (will be deprecated 1/july 2023)
+
 Automate bringing data from Google Analytics 4 and Google Tag Manager
 
 3 Available options: 
